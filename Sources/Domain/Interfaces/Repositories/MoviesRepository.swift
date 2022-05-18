@@ -8,7 +8,7 @@
 import Foundation
 import Common
 
-protocol MoviesRepository {
+public protocol MoviesRepository {
     @discardableResult
     func fetchMoviesList(query: MovieQuery,
                          page: Int,
