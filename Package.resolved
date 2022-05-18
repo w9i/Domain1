@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Common",
+        "repositoryURL": "https://github.com/w9i/Common",
+        "state": {
+          "branch": null,
+          "revision": "43ac749ff2ddf46e3e7588746d23e1243a3f99f0",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
