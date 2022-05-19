@@ -13,7 +13,7 @@ public struct Movie: Equatable, Identifiable {
         case adventure
         case scienceFiction
     }
-    let id: Identifier
+    public let id: Identifier
     let title: String?
     let genre: Genre?
     let posterPath: String?
